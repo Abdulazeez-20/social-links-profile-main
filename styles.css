@@ -44,7 +44,7 @@ img{
 }
 
 .info{
-    
+    margin-top: 1rem;
     h2{
         margin-bottom: 0;
     }
@@ -59,7 +59,7 @@ img{
 .social{
     p{
        opacity: .6;
-       padding: 1.2rem 0 1rem;
+       padding: 1.4rem 0 1.2rem;
     }
     ul{
         list-style: none;
